@@ -1,0 +1,39 @@
+{
+  "kpis": {
+    "total_revenue": 456869.56,
+    "orders": 4114,
+    "aov": 111.05,
+    "avg_rating": 4.26,
+    "avg_delivery_days": 4.51,
+    "pct_discounted": 52.6,
+    "revenue_2023": 231138.92,
+    "revenue_2024": 225730.64,
+    "yoy_growth_pct": -2.3,
+    "top_category": "Home & Kitchen",
+    "top_category_share_pct": 32.3,
+    "bottom_category": "Books",
+    "bottom_category_share_pct": 4.7,
+    "top_region": "South",
+    "weakest_region": "Central",
+    "q4_share_pct": 31.3,
+    "top_payment": "UPI",
+    "top_payment_share_pct": 30.5,
+    "top_product": "Smartwatch",
+    "top_product_revenue": 66571.43,
+    "rating_fast_delivery": 4.61,
+    "rating_slow_delivery": 3.78,
+    "aov_discounted": 105.78,
+    "aov_full_price": 116.9,
+    "corr_delivery_rating": -0.48
+  },
+  "findings": [
+    "Revenue declined 2.3% year over year ($231,139 in 2023 vs $225,731 in 2024) - growth is flat, so new demand levers are needed.",
+    "Q4 (Oct-Dec) alone brings 31.3% of annual revenue (25% would be an even split) - stock and campaigns should peak before October.",
+    "Home & Kitchen is the strongest category (32.3% of revenue); Books is the smallest (4.7%).",
+    "South leads the regions while Central is the weakest - a clear target for regional campaigns.",
+    "Delivery speed drives satisfaction: orders delivered in 3 days or less average a 4.61 rating vs 3.78 for 7+ days (correlation -0.48).",
+    "UPI is the most used payment method (30.5% of orders).",
+    "Discounted orders average $106 vs $117 at full price: discounts do not lift basket size, so their profitability should be tested.",
+    "'Smartwatch' is the best-selling product by revenue ($66,571)."
+  ]
+}
